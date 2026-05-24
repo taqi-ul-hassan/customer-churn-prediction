@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Customer Churn Prediction Complete Analysis
 
 ## Project Overview
 This machine learning project predicts whether a customer will churn (leave the company) or stay based on customer data.
